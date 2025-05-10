@@ -34,3 +34,6 @@ build/
 
 .mvn/wrapper/
 .gitattributes
+
+mvnw
+mvnw.cmd
